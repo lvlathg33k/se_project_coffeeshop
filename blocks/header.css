@@ -9,6 +9,8 @@
   flex-direction: column;
   height: 800px;
   position: relative;
+  z-index: 1;
+  box-sizing: border-box;
 }
 
 .header__title {
@@ -43,6 +45,7 @@
   position: absolute;
   right: 5px;
   top: 124px;
+  z-index: -1;
 }
 
 .header__footer {
