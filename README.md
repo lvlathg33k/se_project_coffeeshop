@@ -13,6 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-*The youtube video still has a weird black line showing up at the top of the border that looks bad.
-*The last 2 sections feel like one and look unnecessarily spaced out.
-\*The menu heavily deviates from the color scheme of the rest of the page.
+1. The youtube video still has a weird black line showing up at the top of the border that looks bad.
+2. The last 2 sections feel like one and look unnecessarily spaced out.
+3. The menu heavily deviates from the color scheme of the rest of the page.
