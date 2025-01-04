@@ -11,7 +11,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - A custom form
 - CSS animation and transform
 
-## Plan on improving the project
+## Ideas to improve the project
 
 1. The youtube video still has a weird black line showing up at the top of the border that looks bad.
 2. The last 2 sections feel like one and look unnecessarily spaced out.
